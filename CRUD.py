@@ -222,7 +222,7 @@ while x==0:
             if op2=="5":
                 b=0
                 while b==0:
-                    op=str(input("Você deseja:\n1-Sair\n2-Voltar ao menur incial\n"))
+                    op=str(input("Você deseja:\n1-Sair\n2-Voltar ao menu incial\n"))
                     if op=="1":
                         print("--------------------")
                         print("❌Fim do Programa❌")
